@@ -3,7 +3,8 @@
 <img src="https://raw.githubusercontent.com/Mr-W1nst0n/Mr-W1nst0n/master/BannerGitHub.jpg">
 
 ## Necessary Introduction
-Let me get straight to the point: I'm **_not_** a developer by any means, I'm a Microsoft's Infrastructure/Application techie 🤫  
+Let me get straight to the point:  
+I'm **_not_** a developer by any means, I'm a Microsoft's Infrastructure/Application techie 🤫  
 Because I wanted to launch my blogging career, I was looking to something different then an overused *WordPress* site.  
 I'm passionate about IT and I wanted something youth to satisfy my ego! 🦄
 
