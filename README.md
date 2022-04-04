@@ -5,7 +5,7 @@
 ## Necessary Introduction
 Let me get straight to the point:  
 I'm **_not_** a developer by any means, I'm a Microsoft's Infrastructure/Application techie 🤫  
-Because I wanted to launch my blogging career, I was looking to something different then an overused *WordPress* site.  
+Because I wanted to launch my blogging career, I was looking to something different then an overused *WordPress*    
 I'm passionate about IT and I wanted something youth to satisfy my ego! 🦄
 
 While searching, I found a video Tutorial from <a href="https://www.instagram.com/javascriptmastery/" target="_blank">@JSMastery</a> and I immediately felt in love ❤️  
