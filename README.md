@@ -1,14 +1,23 @@
-# GraphCMS Headless Blog
-### [Live Site](https://nextjs-plum-five-51.vercel.app/)
+# Mr. Winston's Blog
 
-![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
+<img src="https://raw.githubusercontent.com/Mr-W1nst0n/Mr-W1nst0n/master/BannerGitHub.jpg">
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+## Necessary Introduction
+Let me get straight to the point: I'm **_not_** a developer by any means, I'm a Microsoft's Infrastructure/Application techie 🤫  
+Because I wanted to launch my blogging career, I was looking to something different then an overused *WordPress* site.  
+I'm passionate about IT and I wanted something youth to satisfy my ego! 🦄
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+While searching, I found a video Tutorial from <a href="https://www.instagram.com/javascriptmastery/" target="_blank">@JSMastery</a> and I immediately felt in love ❤️  
+In one shot I had the opportunity to touch'n'learn 👇
 
-With featured and recent posts, categories. full markdown articles, author information, comments, and much more, this fully responsive CMS Blog App is the best Blog Application that you can currently find on YouTube. And what's best of all is that you and your clients can manage the blog from a dedicated Content Management System.
+- 📚 NextJS
+- ⭐ GraphQL and GraphCMS
+- 📚 Tailwind CSS
+- 🔥 Vercel
 
-You'll also learn how to work with GraphCMS. GraphCMS is a headless content management system based on GraphQL technology enabling seamless integration with any application.
+For a guy with my background is like landing into another planet 🌎
+
+## Support the Creator
+
+❤️Support My Work: https://www.buymeacoffee.com/JSMastery  
+💼 Business Inquiries: E-mail: contact@jsmasterypro.com
